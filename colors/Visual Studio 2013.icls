@@ -26,7 +26,7 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="1e1e1e" />
     <option name="INDENT_GUIDE" value="3399ff" />
-    <option name="LINE_NUMBERS_COLOR" value="569cd6" />
+    <option name="LINE_NUMBERS_COLOR" value="505050" />
     <option name="METHOD_SEPARATORS_COLOR" value="f0f0f" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -509,8 +509,35 @@
         <option name="FOREGROUND" value="b5cea8" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c586c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.LOCAL_VARIABLE">
       <value />
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
     </option>
     <option name="JS.REGEXP">
       <value>
@@ -562,7 +589,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
@@ -627,9 +653,7 @@
       </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="dedede" />
-      </value>
+      <value />
     </option>
     <option name="XML_COMMENT">
       <value>
