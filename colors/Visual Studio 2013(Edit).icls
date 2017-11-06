@@ -100,6 +100,13 @@
         <option name="FOREGROUND" value="57a64a" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c8c8c8" />
@@ -425,8 +432,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="264f78" />
-        <option name="ERROR_STRIPE_COLOR" value="2d4765" />
+        <option name="BACKGROUND" value="414141" />
+        <option name="ERROR_STRIPE_COLOR" value="650911" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
@@ -602,8 +609,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="264f78" />
-        <option name="ERROR_STRIPE_COLOR" value="2d4765" />
+        <option name="BACKGROUND" value="425f49" />
+        <option name="ERROR_STRIPE_COLOR" value="650e06" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
